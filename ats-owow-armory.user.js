@@ -48,7 +48,7 @@
             }).responseText; // slow af but idk if better way would work
 
             //console.log(parsedpage);
-
+            //Images fix
             var thumbnail = parsedpage.match(/'(inv.*?)'/g);  //take icon from response html
             if (thumbnail === null) {
                 thumbnail = parsedpage.match(/'(spell.*?)'/g); //if icon name doesn't start with inv try spell
@@ -66,7 +66,7 @@
             }
         }
     }
-    //images fix
+    
     //console.log(idList); //list for the future use for example modelviewer
 
 
