@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Atlantiss.eu Armory Tooltip
 // @namespace    http://community.atlantiss.eu/index.php?/user/291-mesaj/
-// @version      0.4
+// @version      0.5
 // @description  Workaround for Atlantiss Armory page
 // @author       Mesaj
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js
@@ -18,6 +18,38 @@
     OWoW.type = 'text/javascript';
     document.getElementsByTagName('head')[0].appendChild(OWoW);
 
+    function getValues(itemid, itemslot){
+        $.ajax({
+            cache       : false,
+            async       : true,
+            url         : "http://cors.io/?u=http://cata.openwow.com/item="+itemid,
+            //dataType    : "text",
+            success: function (data) {
+                var parsedpage = data;
+                //console.log(parsedpage);
+                var thumbnail = parsedpage.match(/'(inv.*?)'/g);
+                console.log(thumbnail);
+                if (thumbnail === null) {
+                    thumbnail = parsedpage.match(/'(spell.*?)'/g); //if icon name doesn't start with inv try spell
+                }
+                //console.log(thumbnail);
+                if(thumbnail !== null) {
+                    var th_string = thumbnail[0];
+                    //console.log(th_string);
+                    var imageurl = "http://cdn.openwow.com/cata/icons/large/"+th_string.substr(1,th_string.length-2)+".jpg";
+                    //console.log(imageurl);
+
+                    $('.slot-'+itemslot+' img').attr('src',imageurl);
+                }
+                else {
+                    //console.log(itemSlots[i]  + thumbnail + ' is null');
+                }
+                return parsedpage;
+            },
+        });
+    } //async test
+
+    //console.log(getValues(70266) + getValues(70266));
     //Make ring and trinket classes unique
     var ringfix = $(".slot-finger").eq(1);
     ringfix.attr('class', 'icon inventory-img slot-finger2');
@@ -40,33 +72,15 @@
             idList.push(itemid);
             $('.slot-'+itemSlots[i]+' a').attr('href',"http://cata.openwow.com/item="+itemid); //create tooltip
 
-            var parsedpage = $.ajax({
-                cache       : false,
-                async       : false,
-                url         : "http://cors.io/?u=http://cata.openwow.com/item="+itemid,
-                dataType    : "text",
-            }).responseText; // slow af but idk if better way would work
+            getValues(itemid,itemSlots[i]);
 
             //console.log(parsedpage);
-            //Images fix
-            var thumbnail = parsedpage.match(/'(inv.*?)'/g);  //take icon from response html
-            if (thumbnail === null) {
-                thumbnail = parsedpage.match(/'(spell.*?)'/g); //if icon name doesn't start with inv try spell
-            }
-            //console.log(thumbnail);
-            if(thumbnail !== null) {
-                var th_string = thumbnail[0];
-                var imageurl = "http://cdn.openwow.com/cata/icons/large/"+th_string.substr(1,th_string.length-2)+".jpg";
-                //console.log(imageurl);
 
-                $('.slot-'+itemSlots[i]+' img').attr('src',imageurl);
-            }
-            else {
-                //console.log(itemSlots[i]  + thumbnail + ' is null');
-            }
+            //var thumbnail = parsedpage.match(/'(inv.*?)'/g);  //take icon from response html
+
         }
     }
-    
+    //images fix
     //console.log(idList); //list for the future use for example modelviewer
 
 
