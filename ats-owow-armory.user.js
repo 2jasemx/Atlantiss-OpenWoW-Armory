@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Atlantiss.eu Armory Tooltip
 // @namespace    http://community.atlantiss.eu/index.php?/user/291-mesaj/
-// @version      0.5
+// @version      0.5b
 // @description  Workaround for Atlantiss Armory page
 // @author       Mesaj
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js
@@ -28,9 +28,12 @@
                 var parsedpage = data;
                 //console.log(parsedpage);
                 var thumbnail = parsedpage.match(/'(inv.*?)'/g);
-                console.log(thumbnail);
+                if (/'(trade.?)'/g.test(parsedpage)) {
+                    thumbnail = parsedpage.match(/'(trade.?)'/g); //if icon name doesn't start with inv try trade
+                }
+                //console.log(thumbnail);
                 if (thumbnail === null) {
-                    thumbnail = parsedpage.match(/'(spell.*?)'/g); //if icon name doesn't start with inv try spell
+                    thumbnail = parsedpage.match(/'(spell.*?)'/g); //if icon name doesn't start with inv or trade try spell
                 }
                 //console.log(thumbnail);
                 if(thumbnail !== null) {
