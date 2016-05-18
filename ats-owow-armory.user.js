@@ -47,7 +47,7 @@
                 else {
                     //console.log(itemSlots[i]  + thumbnail + ' is null');
                 }
-                return parsedpage;
+                //return parsedpage;
             },
         });
     } //async test
