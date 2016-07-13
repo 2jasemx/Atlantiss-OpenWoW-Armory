@@ -1,0 +1,3190 @@
+{
+	"table": "JewelIDs",
+	"rows":
+	[
+		{
+			"entry": 22459,
+			"jewelid": 2948
+		},
+		{
+			"entry": 22460,
+			"jewelid": 2947
+		},
+		{
+			"entry": 23094,
+			"jewelid": 2690
+		},
+		{
+			"entry": 23095,
+			"jewelid": 2691
+		},
+		{
+			"entry": 23096,
+			"jewelid": 2692
+		},
+		{
+			"entry": 23097,
+			"jewelid": 2693
+		},
+		{
+			"entry": 23098,
+			"jewelid": 2752
+		},
+		{
+			"entry": 23099,
+			"jewelid": 2705
+		},
+		{
+			"entry": 23100,
+			"jewelid": 2755
+		},
+		{
+			"entry": 23101,
+			"jewelid": 2760
+		},
+		{
+			"entry": 23103,
+			"jewelid": 2762
+		},
+		{
+			"entry": 23104,
+			"jewelid": 2757
+		},
+		{
+			"entry": 23105,
+			"jewelid": 2706
+		},
+		{
+			"entry": 23106,
+			"jewelid": 2707
+		},
+		{
+			"entry": 23108,
+			"jewelid": 2708
+		},
+		{
+			"entry": 23109,
+			"jewelid": 2709
+		},
+		{
+			"entry": 23110,
+			"jewelid": 2710
+		},
+		{
+			"entry": 23111,
+			"jewelid": 2711
+		},
+		{
+			"entry": 23113,
+			"jewelid": 2694
+		},
+		{
+			"entry": 23114,
+			"jewelid": 2695
+		},
+		{
+			"entry": 23115,
+			"jewelid": 2696
+		},
+		{
+			"entry": 23116,
+			"jewelid": 2697
+		},
+		{
+			"entry": 23118,
+			"jewelid": 2698
+		},
+		{
+			"entry": 23119,
+			"jewelid": 2699
+		},
+		{
+			"entry": 23120,
+			"jewelid": 2700
+		},
+		{
+			"entry": 23121,
+			"jewelid": 2701
+		},
+		{
+			"entry": 23233,
+			"jewelid": 2686
+		},
+		{
+			"entry": 23234,
+			"jewelid": 2687
+		},
+		{
+			"entry": 23235,
+			"jewelid": 2688
+		},
+		{
+			"entry": 23364,
+			"jewelid": 2703
+		},
+		{
+			"entry": 23366,
+			"jewelid": 2704
+		},
+		{
+			"entry": 24027,
+			"jewelid": 2725
+		},
+		{
+			"entry": 24028,
+			"jewelid": 2726
+		},
+		{
+			"entry": 24029,
+			"jewelid": 2727
+		},
+		{
+			"entry": 24030,
+			"jewelid": 2728
+		},
+		{
+			"entry": 24031,
+			"jewelid": 2729
+		},
+		{
+			"entry": 24032,
+			"jewelid": 2730
+		},
+		{
+			"entry": 24033,
+			"jewelid": 2731
+		},
+		{
+			"entry": 24035,
+			"jewelid": 2732
+		},
+		{
+			"entry": 24036,
+			"jewelid": 2754
+		},
+		{
+			"entry": 24037,
+			"jewelid": 2733
+		},
+		{
+			"entry": 24039,
+			"jewelid": 2765
+		},
+		{
+			"entry": 24047,
+			"jewelid": 2734
+		},
+		{
+			"entry": 24048,
+			"jewelid": 2735
+		},
+		{
+			"entry": 24050,
+			"jewelid": 2736
+		},
+		{
+			"entry": 24051,
+			"jewelid": 2764
+		},
+		{
+			"entry": 24052,
+			"jewelid": 2737
+		},
+		{
+			"entry": 24053,
+			"jewelid": 2759
+		},
+		{
+			"entry": 24054,
+			"jewelid": 2738
+		},
+		{
+			"entry": 24055,
+			"jewelid": 2739
+		},
+		{
+			"entry": 24056,
+			"jewelid": 2740
+		},
+		{
+			"entry": 24057,
+			"jewelid": 2741
+		},
+		{
+			"entry": 24058,
+			"jewelid": 2753
+		},
+		{
+			"entry": 24059,
+			"jewelid": 2761
+		},
+		{
+			"entry": 24060,
+			"jewelid": 2742
+		},
+		{
+			"entry": 24061,
+			"jewelid": 2756
+		},
+		{
+			"entry": 24062,
+			"jewelid": 2743
+		},
+		{
+			"entry": 24065,
+			"jewelid": 2744
+		},
+		{
+			"entry": 24066,
+			"jewelid": 2763
+		},
+		{
+			"entry": 24067,
+			"jewelid": 2758
+		},
+		{
+			"entry": 25890,
+			"jewelid": 2827
+		},
+		{
+			"entry": 25893,
+			"jewelid": 2828
+		},
+		{
+			"entry": 25894,
+			"jewelid": 2829
+		},
+		{
+			"entry": 25895,
+			"jewelid": 2830
+		},
+		{
+			"entry": 25896,
+			"jewelid": 2831
+		},
+		{
+			"entry": 25897,
+			"jewelid": 2832
+		},
+		{
+			"entry": 25898,
+			"jewelid": 2833
+		},
+		{
+			"entry": 25899,
+			"jewelid": 2834
+		},
+		{
+			"entry": 25901,
+			"jewelid": 2835
+		},
+		{
+			"entry": 27679,
+			"jewelid": 2891
+		},
+		{
+			"entry": 27774,
+			"jewelid": 2894
+		},
+		{
+			"entry": 27777,
+			"jewelid": 2896
+		},
+		{
+			"entry": 27785,
+			"jewelid": 2898
+		},
+		{
+			"entry": 27786,
+			"jewelid": 2899
+		},
+		{
+			"entry": 27809,
+			"jewelid": 2921
+		},
+		{
+			"entry": 27811,
+			"jewelid": 2922
+		},
+		{
+			"entry": 27812,
+			"jewelid": 2924
+		},
+		{
+			"entry": 27820,
+			"jewelid": 2923
+		},
+		{
+			"entry": 27864,
+			"jewelid": 2917
+		},
+		{
+			"entry": 28117,
+			"jewelid": 2911
+		},
+		{
+			"entry": 28118,
+			"jewelid": 2912
+		},
+		{
+			"entry": 28119,
+			"jewelid": 2913
+		},
+		{
+			"entry": 28120,
+			"jewelid": 2914
+		},
+		{
+			"entry": 28122,
+			"jewelid": 2915
+		},
+		{
+			"entry": 28123,
+			"jewelid": 2916
+		},
+		{
+			"entry": 28290,
+			"jewelid": 2942
+		},
+		{
+			"entry": 28360,
+			"jewelid": 2943
+		},
+		{
+			"entry": 28361,
+			"jewelid": 2944
+		},
+		{
+			"entry": 28362,
+			"jewelid": 2945
+		},
+		{
+			"entry": 28363,
+			"jewelid": 2946
+		},
+		{
+			"entry": 28388,
+			"jewelid": 2949
+		},
+		{
+			"entry": 28389,
+			"jewelid": 2950
+		},
+		{
+			"entry": 28458,
+			"jewelid": 2956
+		},
+		{
+			"entry": 28459,
+			"jewelid": 2957
+		},
+		{
+			"entry": 28460,
+			"jewelid": 2958
+		},
+		{
+			"entry": 28461,
+			"jewelid": 2959
+		},
+		{
+			"entry": 28462,
+			"jewelid": 2960
+		},
+		{
+			"entry": 28463,
+			"jewelid": 2961
+		},
+		{
+			"entry": 28464,
+			"jewelid": 2962
+		},
+		{
+			"entry": 28465,
+			"jewelid": 2963
+		},
+		{
+			"entry": 28466,
+			"jewelid": 2964
+		},
+		{
+			"entry": 28467,
+			"jewelid": 2965
+		},
+		{
+			"entry": 28468,
+			"jewelid": 2966
+		},
+		{
+			"entry": 28469,
+			"jewelid": 2967
+		},
+		{
+			"entry": 28470,
+			"jewelid": 2968
+		},
+		{
+			"entry": 28556,
+			"jewelid": 2969
+		},
+		{
+			"entry": 28557,
+			"jewelid": 2970
+		},
+		{
+			"entry": 28595,
+			"jewelid": 2971
+		},
+		{
+			"entry": 30546,
+			"jewelid": 3045
+		},
+		{
+			"entry": 30547,
+			"jewelid": 3046
+		},
+		{
+			"entry": 30548,
+			"jewelid": 3047
+		},
+		{
+			"entry": 30549,
+			"jewelid": 3048
+		},
+		{
+			"entry": 30550,
+			"jewelid": 3049
+		},
+		{
+			"entry": 30551,
+			"jewelid": 3050
+		},
+		{
+			"entry": 30552,
+			"jewelid": 3051
+		},
+		{
+			"entry": 30553,
+			"jewelid": 3052
+		},
+		{
+			"entry": 30554,
+			"jewelid": 3053
+		},
+		{
+			"entry": 30555,
+			"jewelid": 3054
+		},
+		{
+			"entry": 30556,
+			"jewelid": 3055
+		},
+		{
+			"entry": 30558,
+			"jewelid": 3056
+		},
+		{
+			"entry": 30559,
+			"jewelid": 3057
+		},
+		{
+			"entry": 30560,
+			"jewelid": 3058
+		},
+		{
+			"entry": 30563,
+			"jewelid": 3060
+		},
+		{
+			"entry": 30564,
+			"jewelid": 3061
+		},
+		{
+			"entry": 30565,
+			"jewelid": 3062
+		},
+		{
+			"entry": 30566,
+			"jewelid": 3063
+		},
+		{
+			"entry": 30571,
+			"jewelid": 3065
+		},
+		{
+			"entry": 30572,
+			"jewelid": 3064
+		},
+		{
+			"entry": 30573,
+			"jewelid": 3066
+		},
+		{
+			"entry": 30574,
+			"jewelid": 3067
+		},
+		{
+			"entry": 30575,
+			"jewelid": 3068
+		},
+		{
+			"entry": 30581,
+			"jewelid": 3069
+		},
+		{
+			"entry": 30582,
+			"jewelid": 3070
+		},
+		{
+			"entry": 30583,
+			"jewelid": 3071
+		},
+		{
+			"entry": 30584,
+			"jewelid": 3072
+		},
+		{
+			"entry": 30585,
+			"jewelid": 3073
+		},
+		{
+			"entry": 30586,
+			"jewelid": 3074
+		},
+		{
+			"entry": 30587,
+			"jewelid": 3075
+		},
+		{
+			"entry": 30588,
+			"jewelid": 3076
+		},
+		{
+			"entry": 30589,
+			"jewelid": 3077
+		},
+		{
+			"entry": 30590,
+			"jewelid": 3078
+		},
+		{
+			"entry": 30591,
+			"jewelid": 3079
+		},
+		{
+			"entry": 30592,
+			"jewelid": 3080
+		},
+		{
+			"entry": 30593,
+			"jewelid": 3081
+		},
+		{
+			"entry": 30594,
+			"jewelid": 3082
+		},
+		{
+			"entry": 30598,
+			"jewelid": 3103
+		},
+		{
+			"entry": 30600,
+			"jewelid": 3083
+		},
+		{
+			"entry": 30601,
+			"jewelid": 3084
+		},
+		{
+			"entry": 30602,
+			"jewelid": 3085
+		},
+		{
+			"entry": 30603,
+			"jewelid": 3086
+		},
+		{
+			"entry": 30604,
+			"jewelid": 3087
+		},
+		{
+			"entry": 30605,
+			"jewelid": 3088
+		},
+		{
+			"entry": 30606,
+			"jewelid": 3089
+		},
+		{
+			"entry": 30607,
+			"jewelid": 3090
+		},
+		{
+			"entry": 30608,
+			"jewelid": 3091
+		},
+		{
+			"entry": 31116,
+			"jewelid": 3099
+		},
+		{
+			"entry": 31117,
+			"jewelid": 3100
+		},
+		{
+			"entry": 31118,
+			"jewelid": 3101
+		},
+		{
+			"entry": 31860,
+			"jewelid": 3104
+		},
+		{
+			"entry": 31861,
+			"jewelid": 3105
+		},
+		{
+			"entry": 31862,
+			"jewelid": 3106
+		},
+		{
+			"entry": 31863,
+			"jewelid": 3107
+		},
+		{
+			"entry": 31864,
+			"jewelid": 3108
+		},
+		{
+			"entry": 31865,
+			"jewelid": 3109
+		},
+		{
+			"entry": 31866,
+			"jewelid": 3110
+		},
+		{
+			"entry": 31867,
+			"jewelid": 3111
+		},
+		{
+			"entry": 31868,
+			"jewelid": 3112
+		},
+		{
+			"entry": 31869,
+			"jewelid": 3113
+		},
+		{
+			"entry": 32193,
+			"jewelid": 3115
+		},
+		{
+			"entry": 32194,
+			"jewelid": 3116
+		},
+		{
+			"entry": 32195,
+			"jewelid": 3117
+		},
+		{
+			"entry": 32196,
+			"jewelid": 3118
+		},
+		{
+			"entry": 32197,
+			"jewelid": 3119
+		},
+		{
+			"entry": 32198,
+			"jewelid": 3120
+		},
+		{
+			"entry": 32199,
+			"jewelid": 3121
+		},
+		{
+			"entry": 32200,
+			"jewelid": 3122
+		},
+		{
+			"entry": 32201,
+			"jewelid": 3123
+		},
+		{
+			"entry": 32202,
+			"jewelid": 3124
+		},
+		{
+			"entry": 32203,
+			"jewelid": 3125
+		},
+		{
+			"entry": 32204,
+			"jewelid": 3126
+		},
+		{
+			"entry": 32205,
+			"jewelid": 3127
+		},
+		{
+			"entry": 32206,
+			"jewelid": 3128
+		},
+		{
+			"entry": 32207,
+			"jewelid": 3129
+		},
+		{
+			"entry": 32208,
+			"jewelid": 3130
+		},
+		{
+			"entry": 32209,
+			"jewelid": 3131
+		},
+		{
+			"entry": 32210,
+			"jewelid": 3132
+		},
+		{
+			"entry": 32211,
+			"jewelid": 3133
+		},
+		{
+			"entry": 32212,
+			"jewelid": 3134
+		},
+		{
+			"entry": 32213,
+			"jewelid": 3135
+		},
+		{
+			"entry": 32214,
+			"jewelid": 3136
+		},
+		{
+			"entry": 32215,
+			"jewelid": 3137
+		},
+		{
+			"entry": 32216,
+			"jewelid": 3138
+		},
+		{
+			"entry": 32217,
+			"jewelid": 3139
+		},
+		{
+			"entry": 32218,
+			"jewelid": 3140
+		},
+		{
+			"entry": 32219,
+			"jewelid": 3141
+		},
+		{
+			"entry": 32220,
+			"jewelid": 3142
+		},
+		{
+			"entry": 32221,
+			"jewelid": 3143
+		},
+		{
+			"entry": 32222,
+			"jewelid": 3144
+		},
+		{
+			"entry": 32223,
+			"jewelid": 3145
+		},
+		{
+			"entry": 32224,
+			"jewelid": 3146
+		},
+		{
+			"entry": 32225,
+			"jewelid": 3147
+		},
+		{
+			"entry": 32226,
+			"jewelid": 3148
+		},
+		{
+			"entry": 32409,
+			"jewelid": 3154
+		},
+		{
+			"entry": 32410,
+			"jewelid": 3155
+		},
+		{
+			"entry": 32634,
+			"jewelid": 3156
+		},
+		{
+			"entry": 32635,
+			"jewelid": 3157
+		},
+		{
+			"entry": 32636,
+			"jewelid": 3158
+		},
+		{
+			"entry": 32637,
+			"jewelid": 3159
+		},
+		{
+			"entry": 32638,
+			"jewelid": 3160
+		},
+		{
+			"entry": 32639,
+			"jewelid": 3161
+		},
+		{
+			"entry": 32640,
+			"jewelid": 3162
+		},
+		{
+			"entry": 32641,
+			"jewelid": 3163
+		},
+		{
+			"entry": 32735,
+			"jewelid": 3197
+		},
+		{
+			"entry": 32833,
+			"jewelid": 3201
+		},
+		{
+			"entry": 32836,
+			"jewelid": 3202
+		},
+		{
+			"entry": 33060,
+			"jewelid": 3206
+		},
+		{
+			"entry": 33131,
+			"jewelid": 3208
+		},
+		{
+			"entry": 33132,
+			"jewelid": 3209
+		},
+		{
+			"entry": 33133,
+			"jewelid": 3210
+		},
+		{
+			"entry": 33134,
+			"jewelid": 3211
+		},
+		{
+			"entry": 33135,
+			"jewelid": 3212
+		},
+		{
+			"entry": 33137,
+			"jewelid": 3214
+		},
+		{
+			"entry": 33138,
+			"jewelid": 3215
+		},
+		{
+			"entry": 33139,
+			"jewelid": 3216
+		},
+		{
+			"entry": 33140,
+			"jewelid": 3217
+		},
+		{
+			"entry": 33141,
+			"jewelid": 3218
+		},
+		{
+			"entry": 33142,
+			"jewelid": 3219
+		},
+		{
+			"entry": 33143,
+			"jewelid": 3220
+		},
+		{
+			"entry": 33144,
+			"jewelid": 3221
+		},
+		{
+			"entry": 33782,
+			"jewelid": 3226
+		},
+		{
+			"entry": 34142,
+			"jewelid": 3242
+		},
+		{
+			"entry": 34143,
+			"jewelid": 3254
+		},
+		{
+			"entry": 34220,
+			"jewelid": 3261
+		},
+		{
+			"entry": 34256,
+			"jewelid": 3262
+		},
+		{
+			"entry": 34627,
+			"jewelid": 3264
+		},
+		{
+			"entry": 34831,
+			"jewelid": 3268
+		},
+		{
+			"entry": 34967,
+			"jewelid": 0
+		},
+		{
+			"entry": 35315,
+			"jewelid": 3270
+		},
+		{
+			"entry": 35316,
+			"jewelid": 3271
+		},
+		{
+			"entry": 35318,
+			"jewelid": 3272
+		},
+		{
+			"entry": 35487,
+			"jewelid": 3281
+		},
+		{
+			"entry": 35488,
+			"jewelid": 3282
+		},
+		{
+			"entry": 35489,
+			"jewelid": 3283
+		},
+		{
+			"entry": 35501,
+			"jewelid": 3274
+		},
+		{
+			"entry": 35503,
+			"jewelid": 3275
+		},
+		{
+			"entry": 35707,
+			"jewelid": 3280
+		},
+		{
+			"entry": 35758,
+			"jewelid": 3284
+		},
+		{
+			"entry": 35759,
+			"jewelid": 3285
+		},
+		{
+			"entry": 35760,
+			"jewelid": 3286
+		},
+		{
+			"entry": 35761,
+			"jewelid": 3287
+		},
+		{
+			"entry": 36766,
+			"jewelid": 3292
+		},
+		{
+			"entry": 36767,
+			"jewelid": 3293
+		},
+		{
+			"entry": 37430,
+			"jewelid": 3317
+		},
+		{
+			"entry": 37503,
+			"jewelid": 3318
+		},
+		{
+			"entry": 38292,
+			"jewelid": 3321
+		},
+		{
+			"entry": 38498,
+			"jewelid": 3333
+		},
+		{
+			"entry": 38538,
+			"jewelid": 3334
+		},
+		{
+			"entry": 38545,
+			"jewelid": 3335
+		},
+		{
+			"entry": 38546,
+			"jewelid": 3336
+		},
+		{
+			"entry": 38547,
+			"jewelid": 3337
+		},
+		{
+			"entry": 38548,
+			"jewelid": 3338
+		},
+		{
+			"entry": 38549,
+			"jewelid": 3339
+		},
+		{
+			"entry": 38550,
+			"jewelid": 3340
+		},
+		{
+			"entry": 39302,
+			"jewelid": 2734
+		},
+		{
+			"entry": 39900,
+			"jewelid": 3371
+		},
+		{
+			"entry": 39905,
+			"jewelid": 3374
+		},
+		{
+			"entry": 39906,
+			"jewelid": 3375
+		},
+		{
+			"entry": 39907,
+			"jewelid": 3376
+		},
+		{
+			"entry": 39908,
+			"jewelid": 3377
+		},
+		{
+			"entry": 39909,
+			"jewelid": 3378
+		},
+		{
+			"entry": 39910,
+			"jewelid": 3379
+		},
+		{
+			"entry": 39911,
+			"jewelid": 3380
+		},
+		{
+			"entry": 39912,
+			"jewelid": 3381
+		},
+		{
+			"entry": 39914,
+			"jewelid": 3382
+		},
+		{
+			"entry": 39915,
+			"jewelid": 3383
+		},
+		{
+			"entry": 39916,
+			"jewelid": 3384
+		},
+		{
+			"entry": 39917,
+			"jewelid": 3385
+		},
+		{
+			"entry": 39918,
+			"jewelid": 3386
+		},
+		{
+			"entry": 39919,
+			"jewelid": 3387
+		},
+		{
+			"entry": 39920,
+			"jewelid": 3388
+		},
+		{
+			"entry": 39927,
+			"jewelid": 3389
+		},
+		{
+			"entry": 39932,
+			"jewelid": 3390
+		},
+		{
+			"entry": 39933,
+			"jewelid": 3391
+		},
+		{
+			"entry": 39934,
+			"jewelid": 3392
+		},
+		{
+			"entry": 39935,
+			"jewelid": 3393
+		},
+		{
+			"entry": 39936,
+			"jewelid": 3394
+		},
+		{
+			"entry": 39937,
+			"jewelid": 3395
+		},
+		{
+			"entry": 39938,
+			"jewelid": 3396
+		},
+		{
+			"entry": 39939,
+			"jewelid": 3397
+		},
+		{
+			"entry": 39940,
+			"jewelid": 3398
+		},
+		{
+			"entry": 39941,
+			"jewelid": 3399
+		},
+		{
+			"entry": 39942,
+			"jewelid": 3400
+		},
+		{
+			"entry": 39943,
+			"jewelid": 3401
+		},
+		{
+			"entry": 39944,
+			"jewelid": 3402
+		},
+		{
+			"entry": 39945,
+			"jewelid": 3403
+		},
+		{
+			"entry": 39946,
+			"jewelid": 3404
+		},
+		{
+			"entry": 39947,
+			"jewelid": 3405
+		},
+		{
+			"entry": 39948,
+			"jewelid": 3411
+		},
+		{
+			"entry": 39949,
+			"jewelid": 3407
+		},
+		{
+			"entry": 39950,
+			"jewelid": 3408
+		},
+		{
+			"entry": 39951,
+			"jewelid": 3409
+		},
+		{
+			"entry": 39952,
+			"jewelid": 3410
+		},
+		{
+			"entry": 39953,
+			"jewelid": 3406
+		},
+		{
+			"entry": 39954,
+			"jewelid": 3412
+		},
+		{
+			"entry": 39955,
+			"jewelid": 3413
+		},
+		{
+			"entry": 39956,
+			"jewelid": 3414
+		},
+		{
+			"entry": 39957,
+			"jewelid": 3415
+		},
+		{
+			"entry": 39958,
+			"jewelid": 3416
+		},
+		{
+			"entry": 39959,
+			"jewelid": 3417
+		},
+		{
+			"entry": 39960,
+			"jewelid": 3422
+		},
+		{
+			"entry": 39961,
+			"jewelid": 3423
+		},
+		{
+			"entry": 39962,
+			"jewelid": 3424
+		},
+		{
+			"entry": 39963,
+			"jewelid": 3426
+		},
+		{
+			"entry": 39964,
+			"jewelid": 3418
+		},
+		{
+			"entry": 39965,
+			"jewelid": 3419
+		},
+		{
+			"entry": 39966,
+			"jewelid": 3420
+		},
+		{
+			"entry": 39967,
+			"jewelid": 3421
+		},
+		{
+			"entry": 39968,
+			"jewelid": 3427
+		},
+		{
+			"entry": 39974,
+			"jewelid": 3428
+		},
+		{
+			"entry": 39975,
+			"jewelid": 3429
+		},
+		{
+			"entry": 39976,
+			"jewelid": 3430
+		},
+		{
+			"entry": 39977,
+			"jewelid": 3431
+		},
+		{
+			"entry": 39978,
+			"jewelid": 3432
+		},
+		{
+			"entry": 39979,
+			"jewelid": 3433
+		},
+		{
+			"entry": 39980,
+			"jewelid": 3434
+		},
+		{
+			"entry": 39981,
+			"jewelid": 3435
+		},
+		{
+			"entry": 39982,
+			"jewelid": 3436
+		},
+		{
+			"entry": 39983,
+			"jewelid": 3437
+		},
+		{
+			"entry": 39984,
+			"jewelid": 3438
+		},
+		{
+			"entry": 39985,
+			"jewelid": 3439
+		},
+		{
+			"entry": 39986,
+			"jewelid": 3440
+		},
+		{
+			"entry": 39988,
+			"jewelid": 3441
+		},
+		{
+			"entry": 39989,
+			"jewelid": 3442
+		},
+		{
+			"entry": 39990,
+			"jewelid": 3443
+		},
+		{
+			"entry": 39991,
+			"jewelid": 3444
+		},
+		{
+			"entry": 39992,
+			"jewelid": 3445
+		},
+		{
+			"entry": 39996,
+			"jewelid": 3446
+		},
+		{
+			"entry": 39997,
+			"jewelid": 3447
+		},
+		{
+			"entry": 39998,
+			"jewelid": 3448
+		},
+		{
+			"entry": 39999,
+			"jewelid": 3449
+		},
+		{
+			"entry": 40000,
+			"jewelid": 3450
+		},
+		{
+			"entry": 40001,
+			"jewelid": 3451
+		},
+		{
+			"entry": 40002,
+			"jewelid": 3452
+		},
+		{
+			"entry": 40003,
+			"jewelid": 3453
+		},
+		{
+			"entry": 40008,
+			"jewelid": 3454
+		},
+		{
+			"entry": 40009,
+			"jewelid": 3455
+		},
+		{
+			"entry": 40010,
+			"jewelid": 3456
+		},
+		{
+			"entry": 40011,
+			"jewelid": 3457
+		},
+		{
+			"entry": 40012,
+			"jewelid": 3458
+		},
+		{
+			"entry": 40013,
+			"jewelid": 3459
+		},
+		{
+			"entry": 40014,
+			"jewelid": 3460
+		},
+		{
+			"entry": 40015,
+			"jewelid": 3461
+		},
+		{
+			"entry": 40016,
+			"jewelid": 3462
+		},
+		{
+			"entry": 40017,
+			"jewelid": 3463
+		},
+		{
+			"entry": 40022,
+			"jewelid": 3464
+		},
+		{
+			"entry": 40023,
+			"jewelid": 3465
+		},
+		{
+			"entry": 40024,
+			"jewelid": 3474
+		},
+		{
+			"entry": 40025,
+			"jewelid": 3466
+		},
+		{
+			"entry": 40026,
+			"jewelid": 3472
+		},
+		{
+			"entry": 40027,
+			"jewelid": 3473
+		},
+		{
+			"entry": 40028,
+			"jewelid": 3476
+		},
+		{
+			"entry": 40029,
+			"jewelid": 3467
+		},
+		{
+			"entry": 40030,
+			"jewelid": 3475
+		},
+		{
+			"entry": 40031,
+			"jewelid": 3468
+		},
+		{
+			"entry": 40032,
+			"jewelid": 3469
+		},
+		{
+			"entry": 40033,
+			"jewelid": 3470
+		},
+		{
+			"entry": 40034,
+			"jewelid": 3471
+		},
+		{
+			"entry": 40037,
+			"jewelid": 3477
+		},
+		{
+			"entry": 40038,
+			"jewelid": 3478
+		},
+		{
+			"entry": 40039,
+			"jewelid": 3479
+		},
+		{
+			"entry": 40040,
+			"jewelid": 3480
+		},
+		{
+			"entry": 40041,
+			"jewelid": 3481
+		},
+		{
+			"entry": 40043,
+			"jewelid": 3482
+		},
+		{
+			"entry": 40044,
+			"jewelid": 3483
+		},
+		{
+			"entry": 40045,
+			"jewelid": 3484
+		},
+		{
+			"entry": 40046,
+			"jewelid": 3485
+		},
+		{
+			"entry": 40047,
+			"jewelid": 3486
+		},
+		{
+			"entry": 40048,
+			"jewelid": 3487
+		},
+		{
+			"entry": 40049,
+			"jewelid": 3488
+		},
+		{
+			"entry": 40050,
+			"jewelid": 3489
+		},
+		{
+			"entry": 40051,
+			"jewelid": 3490
+		},
+		{
+			"entry": 40052,
+			"jewelid": 3491
+		},
+		{
+			"entry": 40053,
+			"jewelid": 3492
+		},
+		{
+			"entry": 40054,
+			"jewelid": 3493
+		},
+		{
+			"entry": 40055,
+			"jewelid": 3494
+		},
+		{
+			"entry": 40056,
+			"jewelid": 3495
+		},
+		{
+			"entry": 40057,
+			"jewelid": 3496
+		},
+		{
+			"entry": 40058,
+			"jewelid": 3497
+		},
+		{
+			"entry": 40059,
+			"jewelid": 3498
+		},
+		{
+			"entry": 40085,
+			"jewelid": 3499
+		},
+		{
+			"entry": 40086,
+			"jewelid": 3500
+		},
+		{
+			"entry": 40088,
+			"jewelid": 3501
+		},
+		{
+			"entry": 40089,
+			"jewelid": 3502
+		},
+		{
+			"entry": 40090,
+			"jewelid": 3503
+		},
+		{
+			"entry": 40091,
+			"jewelid": 3504
+		},
+		{
+			"entry": 40092,
+			"jewelid": 3505
+		},
+		{
+			"entry": 40094,
+			"jewelid": 3510
+		},
+		{
+			"entry": 40095,
+			"jewelid": 3506
+		},
+		{
+			"entry": 40096,
+			"jewelid": 3511
+		},
+		{
+			"entry": 40098,
+			"jewelid": 3515
+		},
+		{
+			"entry": 40099,
+			"jewelid": 3507
+		},
+		{
+			"entry": 40100,
+			"jewelid": 3512
+		},
+		{
+			"entry": 40101,
+			"jewelid": 3516
+		},
+		{
+			"entry": 40102,
+			"jewelid": 3508
+		},
+		{
+			"entry": 40103,
+			"jewelid": 3513
+		},
+		{
+			"entry": 40104,
+			"jewelid": 3509
+		},
+		{
+			"entry": 40105,
+			"jewelid": 3514
+		},
+		{
+			"entry": 40106,
+			"jewelid": 3517
+		},
+		{
+			"entry": 40111,
+			"jewelid": 3518
+		},
+		{
+			"entry": 40112,
+			"jewelid": 3519
+		},
+		{
+			"entry": 40113,
+			"jewelid": 3520
+		},
+		{
+			"entry": 40114,
+			"jewelid": 3521
+		},
+		{
+			"entry": 40115,
+			"jewelid": 3522
+		},
+		{
+			"entry": 40116,
+			"jewelid": 3523
+		},
+		{
+			"entry": 40117,
+			"jewelid": 3525
+		},
+		{
+			"entry": 40118,
+			"jewelid": 3524
+		},
+		{
+			"entry": 40119,
+			"jewelid": 3532
+		},
+		{
+			"entry": 40120,
+			"jewelid": 3533
+		},
+		{
+			"entry": 40121,
+			"jewelid": 3534
+		},
+		{
+			"entry": 40122,
+			"jewelid": 3535
+		},
+		{
+			"entry": 40123,
+			"jewelid": 3526
+		},
+		{
+			"entry": 40124,
+			"jewelid": 3527
+		},
+		{
+			"entry": 40125,
+			"jewelid": 3528
+		},
+		{
+			"entry": 40126,
+			"jewelid": 3529
+		},
+		{
+			"entry": 40127,
+			"jewelid": 3530
+		},
+		{
+			"entry": 40128,
+			"jewelid": 3531
+		},
+		{
+			"entry": 40129,
+			"jewelid": 3536
+		},
+		{
+			"entry": 40130,
+			"jewelid": 3537
+		},
+		{
+			"entry": 40131,
+			"jewelid": 3544
+		},
+		{
+			"entry": 40132,
+			"jewelid": 3538
+		},
+		{
+			"entry": 40133,
+			"jewelid": 3545
+		},
+		{
+			"entry": 40134,
+			"jewelid": 3546
+		},
+		{
+			"entry": 40135,
+			"jewelid": 3548
+		},
+		{
+			"entry": 40136,
+			"jewelid": 3539
+		},
+		{
+			"entry": 40137,
+			"jewelid": 3547
+		},
+		{
+			"entry": 40138,
+			"jewelid": 3540
+		},
+		{
+			"entry": 40139,
+			"jewelid": 3541
+		},
+		{
+			"entry": 40140,
+			"jewelid": 3543
+		},
+		{
+			"entry": 40141,
+			"jewelid": 3542
+		},
+		{
+			"entry": 40142,
+			"jewelid": 3549
+		},
+		{
+			"entry": 40143,
+			"jewelid": 3550
+		},
+		{
+			"entry": 40144,
+			"jewelid": 3551
+		},
+		{
+			"entry": 40145,
+			"jewelid": 3552
+		},
+		{
+			"entry": 40146,
+			"jewelid": 3553
+		},
+		{
+			"entry": 40147,
+			"jewelid": 3554
+		},
+		{
+			"entry": 40148,
+			"jewelid": 3555
+		},
+		{
+			"entry": 40149,
+			"jewelid": 3556
+		},
+		{
+			"entry": 40150,
+			"jewelid": 3557
+		},
+		{
+			"entry": 40151,
+			"jewelid": 3558
+		},
+		{
+			"entry": 40152,
+			"jewelid": 3559
+		},
+		{
+			"entry": 40153,
+			"jewelid": 3560
+		},
+		{
+			"entry": 40154,
+			"jewelid": 3561
+		},
+		{
+			"entry": 40155,
+			"jewelid": 3563
+		},
+		{
+			"entry": 40156,
+			"jewelid": 3564
+		},
+		{
+			"entry": 40157,
+			"jewelid": 3565
+		},
+		{
+			"entry": 40158,
+			"jewelid": 3566
+		},
+		{
+			"entry": 40159,
+			"jewelid": 3567
+		},
+		{
+			"entry": 40160,
+			"jewelid": 3568
+		},
+		{
+			"entry": 40161,
+			"jewelid": 3569
+		},
+		{
+			"entry": 40162,
+			"jewelid": 3570
+		},
+		{
+			"entry": 40163,
+			"jewelid": 3571
+		},
+		{
+			"entry": 40164,
+			"jewelid": 3572
+		},
+		{
+			"entry": 40165,
+			"jewelid": 3573
+		},
+		{
+			"entry": 40166,
+			"jewelid": 3574
+		},
+		{
+			"entry": 40167,
+			"jewelid": 3575
+		},
+		{
+			"entry": 40168,
+			"jewelid": 3576
+		},
+		{
+			"entry": 40169,
+			"jewelid": 3577
+		},
+		{
+			"entry": 40170,
+			"jewelid": 3578
+		},
+		{
+			"entry": 40171,
+			"jewelid": 3579
+		},
+		{
+			"entry": 40172,
+			"jewelid": 3580
+		},
+		{
+			"entry": 40173,
+			"jewelid": 3581
+		},
+		{
+			"entry": 40174,
+			"jewelid": 3582
+		},
+		{
+			"entry": 40175,
+			"jewelid": 3583
+		},
+		{
+			"entry": 40176,
+			"jewelid": 3584
+		},
+		{
+			"entry": 40177,
+			"jewelid": 3585
+		},
+		{
+			"entry": 40178,
+			"jewelid": 3586
+		},
+		{
+			"entry": 40179,
+			"jewelid": 3587
+		},
+		{
+			"entry": 40180,
+			"jewelid": 3588
+		},
+		{
+			"entry": 40181,
+			"jewelid": 3589
+		},
+		{
+			"entry": 40182,
+			"jewelid": 3590
+		},
+		{
+			"entry": 40232,
+			"jewelid": 3591
+		},
+		{
+			"entry": 41285,
+			"jewelid": 3621
+		},
+		{
+			"entry": 41307,
+			"jewelid": 3622
+		},
+		{
+			"entry": 41333,
+			"jewelid": 3623
+		},
+		{
+			"entry": 41335,
+			"jewelid": 3624
+		},
+		{
+			"entry": 41339,
+			"jewelid": 3625
+		},
+		{
+			"entry": 41375,
+			"jewelid": 3632
+		},
+		{
+			"entry": 41376,
+			"jewelid": 3633
+		},
+		{
+			"entry": 41377,
+			"jewelid": 3634
+		},
+		{
+			"entry": 41378,
+			"jewelid": 3635
+		},
+		{
+			"entry": 41379,
+			"jewelid": 3636
+		},
+		{
+			"entry": 41380,
+			"jewelid": 3637
+		},
+		{
+			"entry": 41381,
+			"jewelid": 3638
+		},
+		{
+			"entry": 41382,
+			"jewelid": 3639
+		},
+		{
+			"entry": 41385,
+			"jewelid": 3640
+		},
+		{
+			"entry": 41389,
+			"jewelid": 3641
+		},
+		{
+			"entry": 41395,
+			"jewelid": 3626
+		},
+		{
+			"entry": 41396,
+			"jewelid": 3631
+		},
+		{
+			"entry": 41397,
+			"jewelid": 3642
+		},
+		{
+			"entry": 41398,
+			"jewelid": 3628
+		},
+		{
+			"entry": 41400,
+			"jewelid": 3643
+		},
+		{
+			"entry": 41401,
+			"jewelid": 3627
+		},
+		{
+			"entry": 41429,
+			"jewelid": 3767
+		},
+		{
+			"entry": 41432,
+			"jewelid": 3649
+		},
+		{
+			"entry": 41433,
+			"jewelid": 3651
+		},
+		{
+			"entry": 41434,
+			"jewelid": 3644
+		},
+		{
+			"entry": 41435,
+			"jewelid": 3648
+		},
+		{
+			"entry": 41436,
+			"jewelid": 3652
+		},
+		{
+			"entry": 41437,
+			"jewelid": 3647
+		},
+		{
+			"entry": 41438,
+			"jewelid": 3650
+		},
+		{
+			"entry": 41439,
+			"jewelid": 3646
+		},
+		{
+			"entry": 41440,
+			"jewelid": 3654
+		},
+		{
+			"entry": 41441,
+			"jewelid": 3655
+		},
+		{
+			"entry": 41442,
+			"jewelid": 3653
+		},
+		{
+			"entry": 41443,
+			"jewelid": 3656
+		},
+		{
+			"entry": 41444,
+			"jewelid": 3661
+		},
+		{
+			"entry": 41445,
+			"jewelid": 3662
+		},
+		{
+			"entry": 41446,
+			"jewelid": 3659
+		},
+		{
+			"entry": 41447,
+			"jewelid": 3660
+		},
+		{
+			"entry": 41448,
+			"jewelid": 3657
+		},
+		{
+			"entry": 41449,
+			"jewelid": 3658
+		},
+		{
+			"entry": 41450,
+			"jewelid": 3664
+		},
+		{
+			"entry": 41451,
+			"jewelid": 3670
+		},
+		{
+			"entry": 41452,
+			"jewelid": 3675
+		},
+		{
+			"entry": 41453,
+			"jewelid": 3669
+		},
+		{
+			"entry": 41454,
+			"jewelid": 3663
+		},
+		{
+			"entry": 41455,
+			"jewelid": 3674
+		},
+		{
+			"entry": 41456,
+			"jewelid": 3665
+		},
+		{
+			"entry": 41457,
+			"jewelid": 3673
+		},
+		{
+			"entry": 41458,
+			"jewelid": 3668
+		},
+		{
+			"entry": 41459,
+			"jewelid": 3672
+		},
+		{
+			"entry": 41460,
+			"jewelid": 3667
+		},
+		{
+			"entry": 41461,
+			"jewelid": 3671
+		},
+		{
+			"entry": 41462,
+			"jewelid": 3666
+		},
+		{
+			"entry": 41463,
+			"jewelid": 3711
+		},
+		{
+			"entry": 41464,
+			"jewelid": 3700
+		},
+		{
+			"entry": 41465,
+			"jewelid": 3714
+		},
+		{
+			"entry": 41466,
+			"jewelid": 3702
+		},
+		{
+			"entry": 41467,
+			"jewelid": 3701
+		},
+		{
+			"entry": 41468,
+			"jewelid": 3699
+		},
+		{
+			"entry": 41469,
+			"jewelid": 3712
+		},
+		{
+			"entry": 41470,
+			"jewelid": 3698
+		},
+		{
+			"entry": 41471,
+			"jewelid": 3713
+		},
+		{
+			"entry": 41472,
+			"jewelid": 3709
+		},
+		{
+			"entry": 41473,
+			"jewelid": 3705
+		},
+		{
+			"entry": 41474,
+			"jewelid": 3716
+		},
+		{
+			"entry": 41475,
+			"jewelid": 3703
+		},
+		{
+			"entry": 41476,
+			"jewelid": 3708
+		},
+		{
+			"entry": 41477,
+			"jewelid": 3710
+		},
+		{
+			"entry": 41478,
+			"jewelid": 3715
+		},
+		{
+			"entry": 41479,
+			"jewelid": 3706
+		},
+		{
+			"entry": 41480,
+			"jewelid": 3707
+		},
+		{
+			"entry": 41481,
+			"jewelid": 3704
+		},
+		{
+			"entry": 41482,
+			"jewelid": 3696
+		},
+		{
+			"entry": 41483,
+			"jewelid": 3683
+		},
+		{
+			"entry": 41484,
+			"jewelid": 3686
+		},
+		{
+			"entry": 41485,
+			"jewelid": 3677
+		},
+		{
+			"entry": 41486,
+			"jewelid": 3692
+		},
+		{
+			"entry": 41487,
+			"jewelid": 3680
+		},
+		{
+			"entry": 41488,
+			"jewelid": 3682
+		},
+		{
+			"entry": 41489,
+			"jewelid": 3685
+		},
+		{
+			"entry": 41490,
+			"jewelid": 3695
+		},
+		{
+			"entry": 41491,
+			"jewelid": 3687
+		},
+		{
+			"entry": 41492,
+			"jewelid": 3681
+		},
+		{
+			"entry": 41493,
+			"jewelid": 3688
+		},
+		{
+			"entry": 41494,
+			"jewelid": 3689
+		},
+		{
+			"entry": 41495,
+			"jewelid": 3690
+		},
+		{
+			"entry": 41496,
+			"jewelid": 3679
+		},
+		{
+			"entry": 41497,
+			"jewelid": 3693
+		},
+		{
+			"entry": 41498,
+			"jewelid": 3697
+		},
+		{
+			"entry": 41499,
+			"jewelid": 3684
+		},
+		{
+			"entry": 41500,
+			"jewelid": 3694
+		},
+		{
+			"entry": 41501,
+			"jewelid": 3678
+		},
+		{
+			"entry": 41502,
+			"jewelid": 3691
+		},
+		{
+			"entry": 42142,
+			"jewelid": 3732
+		},
+		{
+			"entry": 42143,
+			"jewelid": 3733
+		},
+		{
+			"entry": 42144,
+			"jewelid": 3734
+		},
+		{
+			"entry": 42145,
+			"jewelid": 3735
+		},
+		{
+			"entry": 42146,
+			"jewelid": 3736
+		},
+		{
+			"entry": 42148,
+			"jewelid": 3737
+		},
+		{
+			"entry": 42149,
+			"jewelid": 3738
+		},
+		{
+			"entry": 42150,
+			"jewelid": 3739
+		},
+		{
+			"entry": 42151,
+			"jewelid": 3740
+		},
+		{
+			"entry": 42152,
+			"jewelid": 3741
+		},
+		{
+			"entry": 42153,
+			"jewelid": 3745
+		},
+		{
+			"entry": 42154,
+			"jewelid": 3746
+		},
+		{
+			"entry": 42155,
+			"jewelid": 3747
+		},
+		{
+			"entry": 42156,
+			"jewelid": 3742
+		},
+		{
+			"entry": 42157,
+			"jewelid": 3743
+		},
+		{
+			"entry": 42158,
+			"jewelid": 3744
+		},
+		{
+			"entry": 42701,
+			"jewelid": 3749
+		},
+		{
+			"entry": 42702,
+			"jewelid": 3750
+		},
+		{
+			"entry": 44066,
+			"jewelid": 3792
+		},
+		{
+			"entry": 44076,
+			"jewelid": 3798
+		},
+		{
+			"entry": 44078,
+			"jewelid": 3799
+		},
+		{
+			"entry": 44081,
+			"jewelid": 3801
+		},
+		{
+			"entry": 44082,
+			"jewelid": 3800
+		},
+		{
+			"entry": 44084,
+			"jewelid": 3802
+		},
+		{
+			"entry": 44087,
+			"jewelid": 3803
+		},
+		{
+			"entry": 44088,
+			"jewelid": 3804
+		},
+		{
+			"entry": 44089,
+			"jewelid": 3805
+		},
+		{
+			"entry": 45862,
+			"jewelid": 3861
+		},
+		{
+			"entry": 45879,
+			"jewelid": 3862
+		},
+		{
+			"entry": 45880,
+			"jewelid": 3863
+		},
+		{
+			"entry": 45881,
+			"jewelid": 3864
+		},
+		{
+			"entry": 45882,
+			"jewelid": 3865
+		},
+		{
+			"entry": 45883,
+			"jewelid": 3866
+		},
+		{
+			"entry": 45987,
+			"jewelid": 3867
+		},
+		{
+			"entry": 49110,
+			"jewelid": 3879
+		},
+		{
+			"entry": 52070,
+			"jewelid": 3884
+		},
+		{
+			"entry": 52081,
+			"jewelid": 3889
+		},
+		{
+			"entry": 52082,
+			"jewelid": 3890
+		},
+		{
+			"entry": 52083,
+			"jewelid": 3891
+		},
+		{
+			"entry": 52084,
+			"jewelid": 3892
+		},
+		{
+			"entry": 52085,
+			"jewelid": 3893
+		},
+		{
+			"entry": 52086,
+			"jewelid": 3894
+		},
+		{
+			"entry": 52087,
+			"jewelid": 3895
+		},
+		{
+			"entry": 52088,
+			"jewelid": 3896
+		},
+		{
+			"entry": 52089,
+			"jewelid": 3897
+		},
+		{
+			"entry": 52090,
+			"jewelid": 3898
+		},
+		{
+			"entry": 52091,
+			"jewelid": 3936
+		},
+		{
+			"entry": 52092,
+			"jewelid": 3899
+		},
+		{
+			"entry": 52093,
+			"jewelid": 3900
+		},
+		{
+			"entry": 52094,
+			"jewelid": 3901
+		},
+		{
+			"entry": 52095,
+			"jewelid": 3902
+		},
+		{
+			"entry": 52096,
+			"jewelid": 3904
+		},
+		{
+			"entry": 52097,
+			"jewelid": 3903
+		},
+		{
+			"entry": 52098,
+			"jewelid": 3905
+		},
+		{
+			"entry": 52099,
+			"jewelid": 3906
+		},
+		{
+			"entry": 52100,
+			"jewelid": 3907
+		},
+		{
+			"entry": 52101,
+			"jewelid": 3908
+		},
+		{
+			"entry": 52102,
+			"jewelid": 3909
+		},
+		{
+			"entry": 52103,
+			"jewelid": 3910
+		},
+		{
+			"entry": 52104,
+			"jewelid": 3911
+		},
+		{
+			"entry": 52105,
+			"jewelid": 3912
+		},
+		{
+			"entry": 52106,
+			"jewelid": 3913
+		},
+		{
+			"entry": 52107,
+			"jewelid": 3914
+		},
+		{
+			"entry": 52108,
+			"jewelid": 3915
+		},
+		{
+			"entry": 52109,
+			"jewelid": 3916
+		},
+		{
+			"entry": 52110,
+			"jewelid": 3917
+		},
+		{
+			"entry": 52111,
+			"jewelid": 3918
+		},
+		{
+			"entry": 52112,
+			"jewelid": 3919
+		},
+		{
+			"entry": 52113,
+			"jewelid": 3920
+		},
+		{
+			"entry": 52114,
+			"jewelid": 3921
+		},
+		{
+			"entry": 52115,
+			"jewelid": 3922
+		},
+		{
+			"entry": 52116,
+			"jewelid": 3923
+		},
+		{
+			"entry": 52117,
+			"jewelid": 3924
+		},
+		{
+			"entry": 52118,
+			"jewelid": 3925
+		},
+		{
+			"entry": 52119,
+			"jewelid": 3926
+		},
+		{
+			"entry": 52120,
+			"jewelid": 3927
+		},
+		{
+			"entry": 52121,
+			"jewelid": 3928
+		},
+		{
+			"entry": 52122,
+			"jewelid": 3929
+		},
+		{
+			"entry": 52123,
+			"jewelid": 3930
+		},
+		{
+			"entry": 52124,
+			"jewelid": 3931
+		},
+		{
+			"entry": 52125,
+			"jewelid": 3932
+		},
+		{
+			"entry": 52126,
+			"jewelid": 3933
+		},
+		{
+			"entry": 52127,
+			"jewelid": 3885
+		},
+		{
+			"entry": 52128,
+			"jewelid": 3886
+		},
+		{
+			"entry": 52129,
+			"jewelid": 3888
+		},
+		{
+			"entry": 52130,
+			"jewelid": 3887
+		},
+		{
+			"entry": 52131,
+			"jewelid": 3958
+		},
+		{
+			"entry": 52132,
+			"jewelid": 3959
+		},
+		{
+			"entry": 52133,
+			"jewelid": 3960
+		},
+		{
+			"entry": 52134,
+			"jewelid": 3961
+		},
+		{
+			"entry": 52135,
+			"jewelid": 3962
+		},
+		{
+			"entry": 52136,
+			"jewelid": 3963
+		},
+		{
+			"entry": 52137,
+			"jewelid": 3964
+		},
+		{
+			"entry": 52138,
+			"jewelid": 3965
+		},
+		{
+			"entry": 52139,
+			"jewelid": 3966
+		},
+		{
+			"entry": 52140,
+			"jewelid": 3967
+		},
+		{
+			"entry": 52141,
+			"jewelid": 3968
+		},
+		{
+			"entry": 52142,
+			"jewelid": 3969
+		},
+		{
+			"entry": 52143,
+			"jewelid": 3970
+		},
+		{
+			"entry": 52144,
+			"jewelid": 3971
+		},
+		{
+			"entry": 52145,
+			"jewelid": 3972
+		},
+		{
+			"entry": 52146,
+			"jewelid": 3973
+		},
+		{
+			"entry": 52147,
+			"jewelid": 3974
+		},
+		{
+			"entry": 52148,
+			"jewelid": 3975
+		},
+		{
+			"entry": 52149,
+			"jewelid": 3976
+		},
+		{
+			"entry": 52150,
+			"jewelid": 3977
+		},
+		{
+			"entry": 52151,
+			"jewelid": 3978
+		},
+		{
+			"entry": 52152,
+			"jewelid": 3979
+		},
+		{
+			"entry": 52153,
+			"jewelid": 3980
+		},
+		{
+			"entry": 52154,
+			"jewelid": 3981
+		},
+		{
+			"entry": 52155,
+			"jewelid": 3982
+		},
+		{
+			"entry": 52156,
+			"jewelid": 3937
+		},
+		{
+			"entry": 52157,
+			"jewelid": 3938
+		},
+		{
+			"entry": 52158,
+			"jewelid": 3939
+		},
+		{
+			"entry": 52159,
+			"jewelid": 3940
+		},
+		{
+			"entry": 52160,
+			"jewelid": 3941
+		},
+		{
+			"entry": 52161,
+			"jewelid": 3942
+		},
+		{
+			"entry": 52162,
+			"jewelid": 3943
+		},
+		{
+			"entry": 52163,
+			"jewelid": 3944
+		},
+		{
+			"entry": 52164,
+			"jewelid": 3945
+		},
+		{
+			"entry": 52165,
+			"jewelid": 3946
+		},
+		{
+			"entry": 52166,
+			"jewelid": 3947
+		},
+		{
+			"entry": 52167,
+			"jewelid": 3948
+		},
+		{
+			"entry": 52168,
+			"jewelid": 3949
+		},
+		{
+			"entry": 52169,
+			"jewelid": 3950
+		},
+		{
+			"entry": 52170,
+			"jewelid": 3951
+		},
+		{
+			"entry": 52171,
+			"jewelid": 3952
+		},
+		{
+			"entry": 52172,
+			"jewelid": 3953
+		},
+		{
+			"entry": 52173,
+			"jewelid": 3954
+		},
+		{
+			"entry": 52174,
+			"jewelid": 3955
+		},
+		{
+			"entry": 52175,
+			"jewelid": 3956
+		},
+		{
+			"entry": 52176,
+			"jewelid": 3957
+		},
+		{
+			"entry": 52203,
+			"jewelid": 3983
+		},
+		{
+			"entry": 52204,
+			"jewelid": 4008
+		},
+		{
+			"entry": 52205,
+			"jewelid": 4009
+		},
+		{
+			"entry": 52206,
+			"jewelid": 3994
+		},
+		{
+			"entry": 52207,
+			"jewelid": 3995
+		},
+		{
+			"entry": 52208,
+			"jewelid": 4010
+		},
+		{
+			"entry": 52209,
+			"jewelid": 4011
+		},
+		{
+			"entry": 52210,
+			"jewelid": 3984
+		},
+		{
+			"entry": 52211,
+			"jewelid": 4012
+		},
+		{
+			"entry": 52212,
+			"jewelid": 3996
+		},
+		{
+			"entry": 52213,
+			"jewelid": 3985
+		},
+		{
+			"entry": 52214,
+			"jewelid": 4013
+		},
+		{
+			"entry": 52215,
+			"jewelid": 4014
+		},
+		{
+			"entry": 52216,
+			"jewelid": 3997
+		},
+		{
+			"entry": 52217,
+			"jewelid": 3986
+		},
+		{
+			"entry": 52218,
+			"jewelid": 4021
+		},
+		{
+			"entry": 52219,
+			"jewelid": 3999
+		},
+		{
+			"entry": 52220,
+			"jewelid": 3987
+		},
+		{
+			"entry": 52221,
+			"jewelid": 3988
+		},
+		{
+			"entry": 52222,
+			"jewelid": 4015
+		},
+		{
+			"entry": 52223,
+			"jewelid": 4022
+		},
+		{
+			"entry": 52224,
+			"jewelid": 4016
+		},
+		{
+			"entry": 52225,
+			"jewelid": 4023
+		},
+		{
+			"entry": 52226,
+			"jewelid": 4000
+		},
+		{
+			"entry": 52227,
+			"jewelid": 4024
+		},
+		{
+			"entry": 52228,
+			"jewelid": 4025
+		},
+		{
+			"entry": 52229,
+			"jewelid": 4017
+		},
+		{
+			"entry": 52230,
+			"jewelid": 3998
+		},
+		{
+			"entry": 52231,
+			"jewelid": 4026
+		},
+		{
+			"entry": 52232,
+			"jewelid": 4001
+		},
+		{
+			"entry": 52233,
+			"jewelid": 4027
+		},
+		{
+			"entry": 52234,
+			"jewelid": 3989
+		},
+		{
+			"entry": 52235,
+			"jewelid": 4004
+		},
+		{
+			"entry": 52236,
+			"jewelid": 3990
+		},
+		{
+			"entry": 52237,
+			"jewelid": 4028
+		},
+		{
+			"entry": 52238,
+			"jewelid": 3991
+		},
+		{
+			"entry": 52239,
+			"jewelid": 4018
+		},
+		{
+			"entry": 52240,
+			"jewelid": 4019
+		},
+		{
+			"entry": 52241,
+			"jewelid": 4002
+		},
+		{
+			"entry": 52242,
+			"jewelid": 4005
+		},
+		{
+			"entry": 52243,
+			"jewelid": 3992
+		},
+		{
+			"entry": 52244,
+			"jewelid": 4006
+		},
+		{
+			"entry": 52245,
+			"jewelid": 4029
+		},
+		{
+			"entry": 52246,
+			"jewelid": 4007
+		},
+		{
+			"entry": 52247,
+			"jewelid": 4003
+		},
+		{
+			"entry": 52248,
+			"jewelid": 3993
+		},
+		{
+			"entry": 52249,
+			"jewelid": 4020
+		},
+		{
+			"entry": 52250,
+			"jewelid": 4030
+		},
+		{
+			"entry": 52255,
+			"jewelid": 4031
+		},
+		{
+			"entry": 52257,
+			"jewelid": 4032
+		},
+		{
+			"entry": 52258,
+			"jewelid": 4033
+		},
+		{
+			"entry": 52259,
+			"jewelid": 4034
+		},
+		{
+			"entry": 52260,
+			"jewelid": 4037
+		},
+		{
+			"entry": 52261,
+			"jewelid": 4041
+		},
+		{
+			"entry": 52262,
+			"jewelid": 4042
+		},
+		{
+			"entry": 52263,
+			"jewelid": 4043
+		},
+		{
+			"entry": 52264,
+			"jewelid": 4039
+		},
+		{
+			"entry": 52265,
+			"jewelid": 4044
+		},
+		{
+			"entry": 52266,
+			"jewelid": 4040
+		},
+		{
+			"entry": 52267,
+			"jewelid": 4036
+		},
+		{
+			"entry": 52268,
+			"jewelid": 4038
+		},
+		{
+			"entry": 52269,
+			"jewelid": 4035
+		},
+		{
+			"entry": 52289,
+			"jewelid": 4045
+		},
+		{
+			"entry": 52291,
+			"jewelid": 4046
+		},
+		{
+			"entry": 52292,
+			"jewelid": 4047
+		},
+		{
+			"entry": 52293,
+			"jewelid": 4048
+		},
+		{
+			"entry": 52294,
+			"jewelid": 4049
+		},
+		{
+			"entry": 52295,
+			"jewelid": 4050
+		},
+		{
+			"entry": 52296,
+			"jewelid": 4051
+		},
+		{
+			"entry": 52297,
+			"jewelid": 4052
+		},
+		{
+			"entry": 52298,
+			"jewelid": 4053
+		},
+		{
+			"entry": 52299,
+			"jewelid": 4054
+		},
+		{
+			"entry": 52300,
+			"jewelid": 4055
+		},
+		{
+			"entry": 52301,
+			"jewelid": 4056
+		},
+		{
+			"entry": 52302,
+			"jewelid": 4057
+		},
+		{
+			"entry": 54616,
+			"jewelid": 4119
+		},
+		{
+			"entry": 59477,
+			"jewelid": 4166
+		},
+		{
+			"entry": 59478,
+			"jewelid": 4167
+		},
+		{
+			"entry": 59479,
+			"jewelid": 4168
+		},
+		{
+			"entry": 59480,
+			"jewelid": 4169
+		},
+		{
+			"entry": 59489,
+			"jewelid": 4170
+		},
+		{
+			"entry": 59491,
+			"jewelid": 4171
+		},
+		{
+			"entry": 59493,
+			"jewelid": 4172
+		},
+		{
+			"entry": 59496,
+			"jewelid": 4173
+		},
+		{
+			"entry": 63696,
+			"jewelid": 4212
+		},
+		{
+			"entry": 63697,
+			"jewelid": 4213
+		},
+		{
+			"entry": 68778,
+			"jewelid": 4251
+		},
+		{
+			"entry": 68779,
+			"jewelid": 4252
+		},
+		{
+			"entry": 68780,
+			"jewelid": 4253
+		},
+		{
+			"entry": 68741,
+			"jewelid": 4244
+		}
+	]
+}
