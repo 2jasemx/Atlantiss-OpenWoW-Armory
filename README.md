@@ -22,11 +22,15 @@
 
 ### Disadvantages:
  
-* my javascipt knowledge is about zero so the code is bad quality
+* my javascript knowledge is about zero so the code is bad quality
 * set bonusses won't work (not implemented in OpenWoW)
 
 ### Known issues:
+
+* Some icons might be still missing - need better filter
 * Not sure reforges can be done.
+* Socket bonusses are not highlighting for some gems
+* Missing blacksmithing sockets
 * Ranged item is still not shown (ATS bug, not script)
 * Transmog - not implemented in ATS armory.
 * Model viewer - more work needed (I got working model viewer but need to fetch display IDs from different source)
