@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Atlantiss.eu Armory Tooltip
 // @namespace    http://community.atlantiss.eu/index.php?/user/291-mesaj/
-// @version      0.6
+// @version      0.6a
 // @description  Workaround for Atlantiss Armory page
 // @author       Mesaj
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
@@ -86,19 +86,23 @@
     for (var i = 0; i < arrayLength; i++) {
 
         var slot = $('.slot-'+itemSlots[i]+' a').attr('href');
-        //console.log(slot);
-        var gemshtml = $('.slot-'+itemSlots[i]+' a').attr('rel'); //get string with rel attributes
-        var gems = gemshtml.split("gems="); // get only gem ids
-        if(gems.length == 2){ // if no gems then array is not split - dont replace anything
-            var gemsids = gems[1]; // take from array only gem Item IDs
-            gems = gems[0]; // html only
-            //console.log(gemsids); //DEBUG: Check if gem array has IDs only
-            replaceGemID(gems, gemsids, itemSlots[i]);
-        }
+        //console.log(slot); DEBUG: Check which itemslot is currently loaded
 
-        if (slot != "javascript:void(0)" || slot !== null ) {
+
+
+        if (slot != "javascript:void(0)" || slot !== null ) { //No item in slot
             //console.log('slot '+ itemSlots[i]);
-
+            var gemshtml = $('.slot-'+itemSlots[i]+' a').attr('rel'); //get string with rel attributes
+            console.log(gemshtml);
+            if (gemshtml) { //Non gemable item in slot
+                var gems = gemshtml.split("gems="); // get only gem ids
+                if(gems.length == 2){ // if no gems then array is not split - dont replace anything
+                    var gemsids = gems[1]; // take from array only gem Item IDs
+                    gems = gems[0]; // html only
+                    //console.log(gemsids); //DEBUG: Check if gem array has IDs only
+                    replaceGemID(gems, gemsids, itemSlots[i]);
+                }
+            }
             var itemid = slot.replace(/^\D+|\D+$/g, ''); //extract just id
             //console.log(slot +' with id ' + itemid);
             idList.push(itemid);
