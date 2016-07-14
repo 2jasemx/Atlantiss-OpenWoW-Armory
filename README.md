@@ -10,9 +10,9 @@
  
 [One click install link](https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js) (copy and paste if not working)
 
+* v0.6a - additional check to avoid errors on gem loading
 * v0.6  - gems loading
 * v0.5c - commented unneeded return in async function
-* v0.5b - show archeology items icons
 
 
  
