@@ -10,9 +10,9 @@
  
 [One click install link](https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js) (copy and paste if not working)
 
+* v0.6  - gems loading
 * v0.5c - commented unneeded return in async function
 * v0.5b - show archeology items icons
-* v0.5  - asynchronous thumbnail loading, drastically improved speed
 
 
  
@@ -26,12 +26,12 @@
 * set bonusses won't work (not implemented in OpenWoW)
 
 ### Known issues:
-* Gems don't load, if I find a way to get jewel ID from item ID I could fix it. Enchants work though. Not sure reforges can be done.
+* Not sure reforges can be done.
 * Ranged item is still not shown (ATS bug, not script)
 * Transmog - not implemented in ATS armory.
 * Model viewer - more work needed (I got working model viewer but need to fetch display IDs from different source)
 
-Thanks Cecidit, Naguceł & Pelekon for feedback
+Thanks Cecidit, Naguceł & Pelekon for feedback and User101 for letting me know about GemProperties.dbc and it's relation to GemProperties in item_template
 
 -
 
