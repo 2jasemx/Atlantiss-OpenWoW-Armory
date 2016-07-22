@@ -1,12 +1,18 @@
 // ==UserScript==
 // @name         Atlantiss.eu Armory Tooltip
 // @namespace    http://community.atlantiss.eu/index.php?/user/291-mesaj/
-// @version      0.6a
-// @description  Workaround for Atlantiss Armory page
+// @version      0.6b
+// @description  Workaround for Atlantiss Armory page item icons and tooltips
 // @author       Mesaj
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
 // @match        http://atlantiss.eu/armory/character/*
 // @grant        none
+// @homepage http://community.atlantiss.eu/index.php?/topic/10071-website-armory-openwow-tooltip/
+// @contactURL http://community.atlantiss.eu/index.php?/user/291-mesaj/
+// @supportURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/issues
+// @contributionURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory
+// @updateURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js
+// @downloadURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js
 // ==/UserScript==
 
 (function() {
