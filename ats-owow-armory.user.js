@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Atlantiss.eu Armory Tooltip
 // @namespace    http://community.atlantiss.eu/index.php?/user/291-mesaj/
-// @version      0.6b
+// @version      0.6c
 // @description  Workaround for Atlantiss Armory page item icons and tooltips
 // @author       Mesaj
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
@@ -17,7 +17,7 @@
 
 (function() {
     'use strict';
-
+    alert("\n\nArmory has been officialy fixed by Atlantiss Team.\nIt's no longer needed to have Tampermonkey/Greasemonkey script.\nThanks to everyone who used it.\n\nRegards, Mesaj.");
     //Integrate OpenWoW
     var OWoW = document.createElement('script');
     OWoW.src = 'http://cdn.openwow.com/api/tooltip.js';
