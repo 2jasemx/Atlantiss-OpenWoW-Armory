@@ -9,10 +9,10 @@
 // @grant        none
 // @homepage http://community.atlantiss.eu/index.php?/topic/10071-website-armory-openwow-tooltip/
 // @contactURL http://community.atlantiss.eu/index.php?/user/291-mesaj/
-// @supportURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/issues
-// @contributionURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory
-// @updateURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js
-// @downloadURL https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js
+// @supportURL https://github.com/2jasemx/Atlantiss-OpenWoW-Armory/issues
+// @contributionURL https://github.com/2jasemx/Atlantiss-OpenWoW-Armory
+// @updateURL https://github.com/2jasemx/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js
+// @downloadURL https://github.com/2jasemx/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js
 // ==/UserScript==
 
 (function() {
