@@ -8,7 +8,7 @@
 
 ### Script and changelog (last 3 updates):
  
-[One click install link](https://github.com/xmesaj2/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js) (copy and paste if not working)
+[One click install link](https://github.com/2jasemx/Atlantiss-OpenWoW-Armory/raw/master/ats-owow-armory.user.js) (copy and paste if not working)
 
 * v0.6b - some information for autoupdater and links
 * v0.6a - additional check to avoid errors on gem loading
